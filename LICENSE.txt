@@ -1,0 +1,6 @@
+All rights reserved.
+
+This repository is shared for educational and reference purposes only.
+No part of the code, configuration, or documentation may be copied,
+Duplication or reuse of code/configurations is strictly prohibited.
+
